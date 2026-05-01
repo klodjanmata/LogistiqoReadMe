@@ -2,7 +2,7 @@
 
 # ✈️ Logistiqo
 
-### Cloud-Based Cargo & Transport Management Platform
+### Cloud-Based Cargo Handling, Transport Management & Warehouse Execution Software
 
 [![Website](https://img.shields.io/badge/Website-logistiqo.com-blue?style=for-the-badge)](https://www.logistiqo.com)
 [![Contact](https://img.shields.io/badge/Email-info@logistiqo.com-red?style=for-the-badge)](mailto:info@logistiqo.com)
@@ -18,6 +18,10 @@
 ##  Overview
 
 **Logistiqo** is a comprehensive cloud-based cargo handling, transport management, and warehouse execution platform designed for:
+
+For teams searching for cargo handling software, air cargo software, airport logistics software, freight forwarding software, transport management software, warehouse management software, or warehouse execution software, Logistiqo brings those workflows together in one operational platform.
+
+Logistiqo can also be described as **Logistiqo TMS** for transport management workflows and **Logistiqo WMS** for warehouse management and warehouse execution workflows.
 
 -  Ground handling agents
 -  Freight forwarders
@@ -45,6 +49,35 @@ Logistiqo provides seamless digital workflows covering the entire cargo lifecycl
 -  Security processes (RA/KC)
 -  Customs integration
 -  Driver/RFS operations
+
+### Search Keywords & Use Cases
+
+Common search terms and category phrases that describe Logistiqo:
+
+- cargo handling software
+- air cargo software
+- airport cargo management software
+- airport logistics software
+- ground handling software
+- freight forwarding software
+- freight management software
+- Logistiqo TMS
+- transport management system (TMS)
+- trucking dispatch software
+- road feeder service software
+- Logistiqo WMS
+- warehouse management system (WMS)
+- warehouse execution system (WES)
+- warehouse scanning and fulfillment software
+- AWB software and bill of lading software
+- customs and bonded warehouse software
+- pharma logistics software
+
+### Quick Answers for Search & AI Assistants
+
+- **What is Logistiqo?** Logistiqo is cloud logistics software for air cargo, road freight, warehouse execution, airport ground handling, and transport dispatch operations.
+- **Who uses Logistiqo?** Ground handling agents, freight forwarders, airport operators, warehouse teams, transport companies, and passenger transport or emergency-response providers.
+- **Which workflows does Logistiqo cover?** Shipment creation, trucking and dispatch, auto-created manifests and tours, AWB and BOL management, AI document import, warehouse receipt and issue, picking, ULD handling, customs, and event tracking.
 
 ---
 
