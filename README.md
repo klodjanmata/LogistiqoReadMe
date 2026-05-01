@@ -30,6 +30,10 @@ It connects **transport, warehouse, air cargo, passenger transport, and emergenc
 
 * Dispatching of drivers and vehicles
 * Route and tour planning
+* Android driver app for trucking with live geolocation tracking
+* Mobile status setting for pickup, loading, departure, arrival, and delivery
+* Map view and navigation support for drivers
+* Built-in photo capture and on-glass signature confirmation
 * Real-time tracking and updates
 * Automatic scheduling based on rules
 
@@ -38,6 +42,7 @@ It connects **transport, warehouse, air cargo, passenger transport, and emergenc
 * Inbound and outbound handling
 * Storage and picking
 * Full traceability
+* Android-based warehouse execution with scanning, confirmations, and label printing
 * No need for a separate warehouse system
 
 ### ✈️ Air Cargo & Airport Operations
@@ -137,13 +142,19 @@ Logistiqo can:
 * Store and manage inventory
 * Pick and prepare shipments
 * Handle outbound processes
+* Scan Goods Receipt and Goods Issue via Android app
+* Print labels directly during warehouse execution
 
 ---
 
 ### 4. Execution & Tracking
 
-* Drivers receive tasks (mobile app)
+* Drivers receive tasks in the Android trucking app
+* Android device geoposition is tracked during execution
+* Warehouse teams track execution steps in the Android app
 * Status updates in real time
+* Drivers can set statuses directly from mobile workflows
+* Map and navigation support guides drivers to each stop
 * Events like loading, departure, arrival are recorded
 
 ---
@@ -151,6 +162,7 @@ Logistiqo can:
 ### 5. Completion & Documentation
 
 * Proof of delivery / completion
+* Confirmations with built-in photos and on-glass signatures
 * Status updates finalized
 * Data available for invoicing and reporting
 
@@ -203,9 +215,10 @@ Logistiqo provides APIs to:
 1. Shipment is created (manual or API)
 2. System assigns vehicle and driver
 3. Tour is automatically generated
-4. Driver receives tasks on mobile app
-5. Pickup → stopovers → delivery executed
-6. Status updates in real time
+4. Driver receives tasks in the Android trucking app
+5. Driver opens the stop in map view and starts navigation
+6. Android geoposition and statuses are updated during pickup → stopovers → delivery
+7. Photos and on-glass signatures are captured at completion
 
 👉 Result: Optimized routing and full visibility
 
@@ -296,19 +309,26 @@ The system supports customer-specific configuration through domain settings and 
 
 #### 4. Mobile Applications
 
-Drivers and operational staff use mobile apps to receive and execute tasks.
+Drivers, warehouse teams, and operational staff use mobile apps to receive and execute tasks.
 
 Mobile functionality includes:
 
 * Task lists
+* Android driver app for trucking operations
+* Shipment tracking with Android geolocation / geoposition
+* Mobile status setting from driver and warehouse workflows
+* Map display and navigation support for drivers
 * Pickup and delivery confirmation
-* Barcode scanning
-* Photo capture
+* Warehouse confirmations with photos and signatures
+* Barcode scanning for Goods Receipt and Goods Issue
+* Built-in photo capture
+* On-glass signature capture
+* Label printing from Android warehouse workflows
 * Proof of delivery
 * Real-time status updates
 * Emergency alerts where required
 
-The mobile apps synchronize with the backend and support field operations in real time.
+The Android apps synchronize with the backend and support transport and warehouse operations in real time, including live driver tracking, mobile status updates, navigation support, and digital proof capture.
 
 ---
 
